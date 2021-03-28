@@ -1,1 +1,1 @@
-# Ninja-Game
+# Box Class
